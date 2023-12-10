@@ -1,9 +1,9 @@
 meta:
   engine: 4.0.4
-  name: samoklava
-  version: 0.3
-  author: soundmonnster
-  url: https://github.com/soundmonster/samoklava
+  name: terminus
+  version: 0.1
+  author: dtger
+  url: https://github.com/dtger/samoklava
 units:
   kx: cx
   ky: cy
@@ -393,7 +393,7 @@ pcbs:
             - matrix_pinky_bottom
           shift: [0.75 kx, 0]
         params:
-          text: "samoklava v0.3\\nby soundmonster"
+          text: "terminus"
           justify: left
       info_r:
         what: text
@@ -403,6 +403,6 @@ pcbs:
           shift: [0.75 kx, 0]
         params:
           layer: B.SilkS
-          text: "samoklava v0.3\\nby soundmonster"
+          text: "terminus"
           justify: right mirror
 
