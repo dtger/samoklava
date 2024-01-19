@@ -239,7 +239,7 @@ pcbs:
       edge:
         outline: pcb
         layer: Edge.Cuts
-    footprints:i
+    footprints:
       mcu_l:
         what: promicro
         where:
